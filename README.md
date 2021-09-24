@@ -1,5 +1,3 @@
-[![Build Status](https://dev.azure.com/au600586/AU/_apis/build/status/LucifersUncle.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/au600586/AU/_build/latest?definitionId=1&branchName=master)
-
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
@@ -35,3 +33,5 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+[![Build Status](https://dev.azure.com/au600586/AU/_apis/build/status/LucifersUncle.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/au600586/AU/_build/latest?definitionId=1&branchName=master)
